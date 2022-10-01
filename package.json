@@ -1,0 +1,31 @@
+{
+	"name": "fastify-surrealdb",
+	"version": "0.5.0",
+	"description": "SurrealDB library for fastify",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JustCursed/fastify-surrealdb.git"
+	},
+	"keywords": [
+		"fastify",
+		"surrealdb.js",
+		"surrealdb",
+		"surreal",
+		"database",
+		"connection"
+	],
+	"author": "JustCursed",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/JustCursed/fastify-surrealdb/issues"
+	},
+	"homepage": "https://github.com/JustCursed/fastify-surrealdb#readme",
+	"dependencies": {
+		"fastify-plugin": "^4.2.1",
+		"surrealdb.js": "^0.3.1"
+	}
+}
